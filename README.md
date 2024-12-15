@@ -1,16 +1,41 @@
-## Hi there 👋
+# About Me 👋
 
-<!--
-**IanPythom/IanPythom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Developer GIF](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
 
-Here are some ideas to get you started:
+Hello, I'm **Ian** 👨‍💻! I am an aspiring full-stack developer passionate about building efficient, user-friendly, and scalable web and mobile applications. My expertise spans both frontend and backend development. I thrive in collaborating with the web development community and enjoy contributing to open-source projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 **What I Focus On**
+
+- **Frontend:** React.js, Next.js, Remix.js, Tailwind CSS  
+- **Backend:** ASP.NET Core  
+- **Mobile:** React Native  
+- **Other Tools:** TypeScript, Javascript, PYTHON
+
+---
+
+## 🤔 **What I'm Up To**
+
+- 🌱 Learning and exploring new technologies in web and mobile development.  
+- 👯 Looking to collaborate with developers in JavaScript, TypeScript, React, and ASP.NET Core communities.  
+- 😎 Contributing to open-source projects.  
+- 💬 Sharing knowledge on full-stack development, backend integration, and modern frontend frameworks.  
+
+---
+
+## 🌟 **Fun Facts About Me**
+
+- ⚡ I love googling stuff—it’s how I solve problems and learn new things!  
+- 🌳 I enjoy connecting with nature as much as I love coding.  
+
+---
+
+## 📬 **Consult/Contact Me**
+
+I'm always happy to connect and collaborate! Feel free to reach out:  
+- **Email:** [iangatumu@gmail.com](mailto:iangatumu@gmail.com)  
+
+---
+
+Let’s build something amazing together! ✨
