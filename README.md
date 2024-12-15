@@ -1,6 +1,6 @@
 # About Me 👋
 
-![Developer GIF](https://media1.tenor.com/m/Ug6cbVA1ZsMAAAAd/developer.gif)
+![Developer GIF](https://media1.tenor.com/m/2fXbn6Xtt0UAAAAd/software-software-development.gif)
 
 Hello, I'm **Ian** 👨‍💻! I am an aspiring full-stack developer passionate about building efficient, user-friendly, and scalable web and mobile applications. My expertise spans both frontend and backend development. I thrive in collaborating with the web development community and enjoy contributing to open-source projects.
 
