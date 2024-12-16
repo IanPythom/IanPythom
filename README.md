@@ -1,16 +1,18 @@
 # About Me 👋
 
-| ![Developer GIF](https://media1.tenor.com/m/2fXbn6Xtt0UAAAAd/software-software-development.gif) | **Hello, I'm Ian 👨‍💻**. I am an aspiring full-stack developer passionate about building efficient, user-friendly, and scalable web and mobile applications. My expertise spans both frontend and backend development. I thrive in collaborating with the web development community and enjoy contributing to open-source projects. |
+| ![Developer GIF](https://media1.tenor.com/m/2fXbn6Xtt0UAAAAd/software-software-development.gif) | **Hello, I'm Ian 👨‍💻**. I am a full-stack developer passionate about building efficient, user-friendly, future-proof and scalable web and mobile applications. My expertise spans both frontend and backend development. I thrive in collaborating with the web development community and enjoy contributing to open-source projects. |
 |:--:|:--|
 
 ---
 
 ## 🚀 **What I Focus On**
 
-- **Frontend:** React.js, Next.js, Remix.js, Tailwind CSS  
-- **Backend:** ASP.NET Core  
-- **Mobile:** React Native  
-- **Other Tools:** TypeScript, Javascript, PYTHON
+| **Category** 🛠️       | **Tech Stack** 🚀                                                                 |
+|:------------------------:|:----------------------------------------------------------------------------:|
+| 🖥️ **Frontend**         | ![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Remix](https://img.shields.io/badge/-Remix-000000?logo=remix&logoColor=white) ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?logo=blazor&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white) |
+| 🛠️ **Backend**          | ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?logo=dotnet&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) |
+| 📱 **Mobile Development**| ![React Native](https://img.shields.io/badge/-React_Native-20232A?logo=react&logoColor=61DAFB)                       |
+| 🔧 **Other Tools**       | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)          |
 
 ---
 
