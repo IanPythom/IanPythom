@@ -1,7 +1,19 @@
 # About Me 👋
 
-| ![Developer GIF](https://media1.tenor.com/m/2fXbn6Xtt0UAAAAd/software-software-development.gif) | **Hello, I'm Ian 👨‍💻**. I am a full-stack developer passionate about building efficient, user-friendly, future-proof and scalable web and mobile applications. My expertise spans both frontend and backend development. I thrive in collaborating with the web development community and enjoy contributing to open-source projects. |
-|:--:|:--|
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 200%; text-align: center;">
+      <img src="https://media1.tenor.com/m/2fXbn6Xtt0UAAAAd/software-software-development.gif" alt="Developer GIF" style="width: 50vw; height: auto;" />
+    </td>
+    <td style="width: 50%; vertical-align: top;">
+      <p><b>
+        Hello, I'm Ian 👨‍💻. I am a full-stack developer passionate about building efficient, user-friendly, future-proof, and scalable web and mobile applications. 
+        My expertise spans both frontend and backend development. I thrive in collaborating with the web development community and enjoy contributing to open-source projects.
+      </b></p>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
